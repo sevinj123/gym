@@ -1,0 +1,44 @@
+ul li {
+  list-style: none;
+}
+ul li a {
+  text-decoration: none;
+  color: black;
+}
+ul li a .phone {
+  font-size: 20px;
+  margin-left: 10px;
+  background-color: #e22323;
+  align-items: center;
+}
+
+.offer {
+  text-align: center;
+  margin: 3% auto;
+}
+
+#we-care {
+  height: 100vh;
+}
+#we-care .imagess img {
+  width: 20%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url(https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?cs=srgb&dl=pexels-leon-ardho-1552252.jpg&fm=jpg);
+  height: 100vh;
+}
+
+nav {
+  background-color: white;
+}
+
+.main {
+  background-color: white;
+}

@@ -1,0 +1,19 @@
+@import 'partials/variables';      //bu hemise once gelmelidir
+@import 'partials/header';
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?cs=srgb&dl=pexels-leon-ardho-1552252.jpg&fm=jpg);
+    height: 100vh;
+}
+nav{
+    background-color: white;
+}
+.main{
+    background-color: white;
+}
