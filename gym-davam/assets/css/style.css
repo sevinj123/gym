@@ -1,0 +1,114 @@
+header{
+    height: 100vh;
+     background-image: url(https://img.freepik.com/free-photo/unstoppable-young-muscular-caucasian-athlete-practicing-squats-gym-with-weight-male-model-doing-strength-exercises-training-lower-body-wellness-healthy-lifestyle-bodybuilding-concept_155003-28004.jpg?w=1380&t=st=1684983161~exp=1684983761~hmac=8a342be134617f7d67fc28a0d526a186a46f5b3cbb212630975b36a11019aa65);
+ }
+ nav{
+    background-color: white;
+    height: 10vh;
+    z-index: 99;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: rgb(241, 241, 241);
+ }
+ul li{
+    list-style:none
+}
+ul li a{
+    text-decoration:none;
+    color: black;
+}
+ul li a .la-phone-volume{
+    background-color: red;
+}
+
+ .real-fitness h1{
+    color: white;
+    font-size: 50px;
+   }
+.real-fitness p{
+    color: white;
+    font-size: 20px;
+}   
+.real-fitness{              
+   /* background-image-in ustune yazini ortalamaq ucun */
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 90vh;
+}
+#we-care{
+    height: 80vh;
+}
+.extremely{
+    text-align: center;
+    margin-top: 7%;
+}
+.gym-items{
+    width: 15%;
+    display: flex;
+    justify-content: center;
+}
+.card-shadow{
+    box-shadow:7px 5px 4px 4px red;
+}
+#top-courses{
+    height: 100vh;
+}
+.friendly-system{
+    text-align: center;
+}
+.course{
+    background-color: red;
+    padding: 4px;
+}
+.course p{
+    color: white;
+}
+.money p{
+    color: red;
+    display: flex;
+    justify-content: flex-end;
+}
+#huge-transaction{
+    height: 100vh;
+    background-image: url(https://media.istockphoto.com/id/947343978/photo/gym-background-with-dumbbell-on-dark-floor.jpg?s=170667a&w=0&k=20&c=SOp3YFcxNkg74k3f0niyA4Ot-alEjyDak0mXbRnnNaI=);
+}
+.become-member{
+    text-align: center;
+    padding-top: 18%;
+    height: 70vh;
+}
+.become-member p{
+    width: 50%;
+    text-align: center;
+    margin: 2% auto 4%;
+    color: white;
+    font-size: 17px;
+}
+.become-member h1{
+    color: white;
+}
+.btn-become{
+    padding: 18px;
+    
+    background-color: red;
+    color: white;
+}
+.last-div{
+    height: 15vh;
+}
+.main-icon-div{
+    padding-top: 4.5%;
+}
+.icons{
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+.icons li a i{
+    margin: 15px;
+    background-color: black;
+    color: white;
+}
